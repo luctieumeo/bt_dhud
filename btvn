@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>BTVN</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<video controls>
+			<source src="https://youtu.be/-6JxNqfdv4g" type="video/mp4">
+		</video>
+    <p>Còn yêu cầu bài tập em không biết làm như thế nào thầy ơi</p>
+	</body>
+</html>
